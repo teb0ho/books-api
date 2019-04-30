@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\9301075467087\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\9301075467087\.Rider2018.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\9301075467087\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\9301075467087\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_BooksAPI.-1776209259.00" t="ExcludeRecursive" />
+    <e p="D:\Repos\BooksAPI" t="IncludeFlat">
+      <e p="BooksAPI" t="IncludeRecursive">
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BooksAPI.csproj" t="IncludeRecursive" />
+        <e p="Controller" t="Include">
+          <e p="BooksController.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Book.cs" t="Include" />
+        </e>
+        <e p="mongosteps.md" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="BooksAPI.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="BookService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="wwwroot" t="Include" />
+      </e>
+      <e p="BooksAPI.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
